@@ -54,12 +54,12 @@ Projekt przedstawia mobilną stację pogodową opartą na mikrokontrolerze Ardui
 ![GitHub Arduino](/Images/web4.PNG)
 ## 8. Wykorzystane technologie
 ----
-HTML
-CSS
-PHP
-JavaScript
-Python 3
-Serwer Apache
+* [HTML](https://devdocs.io/html/) 
+* [CSS](https://devdocs.io/css/)
+* [PHP](https://www.php.net/docs.php) 
+* [JavaScript](https://devdocs.io/javascript/t) 
+* [Python 3](https://docs.python.org/3/)
+* [Serwer Apache](https://httpd.apache.org/)
 ## 9. O co można rozbudować projekt
 ----
 Propozycje rozbudowy projektu:
@@ -68,5 +68,5 @@ Propozycje rozbudowy projektu:
 - Dołączyć wyświetlacz LCD 2x16
 ## 10. Kody źródłowe
 ----
-BME280
-WYKRESY
+* [BME280](https://github.com/adafruit/Adafruit_BME280_Library)
+* [WYKRESY](https://developers.google.com/chart/interactive/docs/gallery/linechart)
